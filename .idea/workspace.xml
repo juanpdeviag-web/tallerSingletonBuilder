@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="289d6c7d-a8b8-4d6f-90d9-571563cf6f0b" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/tallerSingletonBuilder/src/main/java/co/edu/uniquindio/poo/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/tallerSingletonBuilder/src/main/java/co/edu/uniquindio/poo/Main.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="1.4796325469604532" />
+      <entry key="MS500" value="1.958666138716134" />
+      <entry key="S2" value="3.0502207309844827" />
+      <entry key="S5" value="4.163330500860851" />
+      <entry key="S10" value="5.319095298281224" />
+      <entry key="S30" value="8.561373460218727" />
+      <entry key="S60" value="10.650089431804233" />
+      <entry key="M2" value="12.123517746468218" />
+      <entry key="M5" value="13.193915074725519" />
+      <entry key="M10" value="13.587037422904157" />
+      <entry key="M15" value="13.722434327956316" />
+      <entry key="M30" value="13.860075003247976" />
+      <entry key="H1" value="13.929749397036003" />
+      <entry key="H2" value="13.964802349170919" />
+      <entry key="H4" value="13.982383046681868" />
+      <entry key="D1" value="13.997061319898302" />
+      <entry key="W1" value="13.999580126767796" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="0.0" />
+      <entry key="MS500" value="0.0" />
+      <entry key="S2" value="6.572337641425139E-196" />
+      <entry key="S5" value="8.454500352062221E-79" />
+      <entry key="S10" value="9.19483569840278E-40" />
+      <entry key="S30" value="9.724068087500526E-14" />
+      <entry key="S60" value="3.118343805211432E-7" />
+      <entry key="M2" value="5.58421328855859E-4" />
+      <entry key="M5" value="0.04997868200615094" />
+      <entry key="M10" value="0.2235591241845228" />
+      <entry key="M15" value="0.3683507849806864" />
+      <entry key="M30" value="0.6069190926150588" />
+      <entry key="H1" value="0.7790501220172287" />
+      <entry key="H2" value="0.882638160299694" />
+      <entry key="H4" value="0.9394882438326165" />
+      <entry key="D1" value="0.9896505985517892" />
+      <entry key="W1" value="0.9985149139897957" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="0.510507123291689" />
+      <entry key="MS500" value="1.0189689744088848" />
+      <entry key="S2" value="2.4721232378562568" />
+      <entry key="S5" value="3.813233121304378" />
+      <entry key="S10" value="5.0940092945873365" />
+      <entry key="S30" value="8.451226762024321" />
+      <entry key="S60" value="10.584313514742073" />
+      <entry key="M2" value="12.087411329050887" />
+      <entry key="M5" value="13.22794452042361" />
+      <entry key="M10" value="13.802094995688561" />
+      <entry key="M15" value="14.084890239607857" />
+      <entry key="M30" value="14.463874104373058" />
+      <entry key="H1" value="14.707179800830497" />
+      <entry key="H2" value="14.846612972870641" />
+      <entry key="H4" value="14.921452706683636" />
+      <entry key="D1" value="14.986641449262022" />
+      <entry key="W1" value="14.99808495596578" />
+    </decayedShown>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2,
+  &quot;fromUser&quot;: false
+}</component>
+  <component name="ProjectId" id="3JRH7je2IzQmNCh16eF5yH26tQU" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
+    "git-widget-placeholder": "main",
+    "junie.onboarding.icon.badge.shown": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Programacion/Programacion 2/tallerSingletonBuilder",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "advanced.settings",
+    "to.speed.mode.migration.done": "true"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-30f59d01ecdd-a203e0a19954-intellij.indexing.shared.core-IU-262.10315.125" />
+        <option value="bundled-js-predefined-d6986cc7102b-4abd2a77f808-JavaScript-IU-262.10315.125" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="289d6c7d-a8b8-4d6f-90d9-571563cf6f0b" name="Changes" comment="" />
+      <created>1789616794988</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1789616794988</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
