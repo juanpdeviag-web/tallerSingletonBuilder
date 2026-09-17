@@ -1,3 +1,4 @@
+# --- Maven ---
 target/
 pom.xml.tag
 pom.xml.releaseBackup
@@ -10,8 +11,22 @@ buildNumber.properties
 # https://maven.apache.org/tools/wrapper/#Usage_with_or_without_Binary_JAR
 .mvn/wrapper/maven-wrapper.jar
 
-# Eclipse m2e generated files
-# Eclipse Core
+# --- Eclipse ---
 .project
-# JDT-specific (Eclipse Java Development Tools)
 .classpath
+.settings/
+
+# --- IntelliJ IDEA ---
+# Ignorar configuraciones personales y locales
+.idea/workspace.xml
+.idea/tasks.xml
+.idea/shelf/
+.idea/dictionaries/
+*.iws
+
+# PERMITIR estos archivos para que cargue como proyecto Maven automáticamente
+!.idea/compiler.xml
+!.idea/misc.xml
+!.idea/modules.xml
+!.idea/vcs.xml
+!.idea/jarRepositories.xml

@@ -74,5 +74,18 @@ public class Compra {
             return new Compra(this);
         }
     }
+
+    @Override
+    public String toString() {
+        return "Compra:" +
+                "\ncliente=" + cliente +
+                "\nfuncion=" + funcion +
+                "\nasientos=" + asientos +
+                "\nfecha=" + fecha +
+                "\ncombo=" + combo +
+                "\npromocion=" + promocion +
+                "\npuntosRedimidos=" + puntosRedimidos +
+                "\nesCortesia=" + esCortesia;
+    }
 }
 
